@@ -136,11 +136,11 @@ body {
     .apresentacao{
         display: flex;
         flex-direction: column-reverse;
-        padding: 10% 10%;
+        padding: 5%;
     }
 
     .apresentacao__conteudo {
-        width: 90%;
+        width: 100%;
     }
 
     .apresentacao__links {
